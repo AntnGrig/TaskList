@@ -1,0 +1,120 @@
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\ApplicationInsights.config
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\csc.exe
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\System.Collections.Immutable.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\vbc.exe
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\VBCSCompiler.exe
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\roslyn\VBCSCompiler.exe.config
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\BroadridgeTask.dll.config
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\BroadridgeTask.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\BroadridgeTask.pdb
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Antlr3.Runtime.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.DependencyCollector.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.Web.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.WindowsServer.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.ApplicationInsights.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.Web.Infrastructure.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Newtonsoft.Json.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.Helpers.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.Mvc.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.Optimization.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.Razor.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.Deployment.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.Razor.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\WebGrease.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.DependencyCollector.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.Web.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.WindowsServer.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.ApplicationInsights.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.Helpers.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.Mvc.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.Optimization.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.Razor.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.Deployment.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.Razor.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Antlr3.Runtime.pdb
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\Newtonsoft.Json.xml
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.Helpers.resources.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.Mvc.resources.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.Optimization.resources.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.Razor.resources.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.WebPages.resources.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\obj\Debug\BroadridgeTask.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\obj\Debug\BroadridgeTask.dll
+C:\Visual Studio 2015 TFS 2015\BroadridgeTask\BroadridgeTask\obj\Debug\BroadridgeTask.pdb
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\ApplicationInsights.config
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\csc.exe
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\System.Collections.Immutable.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\vbc.exe
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\VBCSCompiler.exe
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\roslyn\VBCSCompiler.exe.config
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\BroadridgeTask.dll.config
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\BroadridgeTask.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\BroadridgeTask.pdb
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Antlr3.Runtime.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.DependencyCollector.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.Web.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.WindowsServer.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.ApplicationInsights.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Newtonsoft.Json.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.Helpers.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.Mvc.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.Optimization.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.Razor.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.Deployment.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.Razor.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\WebGrease.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.DependencyCollector.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.Web.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.AI.WindowsServer.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.ApplicationInsights.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.Helpers.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.Mvc.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.Optimization.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.Razor.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.Deployment.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\System.Web.WebPages.Razor.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Antlr3.Runtime.pdb
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\Newtonsoft.Json.xml
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.Helpers.resources.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.Mvc.resources.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.Optimization.resources.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.Razor.resources.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.WebPages.resources.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\obj\Debug\BroadridgeTask.csprojResolveAssemblyReference.cache
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\obj\Debug\BroadridgeTask.dll
+C:\GitHub\TaskList\BroadridgeTask\BroadridgeTask\obj\Debug\BroadridgeTask.pdb

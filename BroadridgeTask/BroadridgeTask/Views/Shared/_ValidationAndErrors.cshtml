@@ -1,0 +1,8 @@
+﻿<div id="div-vldtn" ng-show="validation['vldtnShow']" ng-cloak>
+    <fieldset>
+        <legend>Data validation and errors</legend>
+        <ul>
+            <li ng-repeat="message in validation['vldtnErrMsgs']" ng-bind="message.ErrMsg"></li>
+        </ul>
+    </fieldset>
+</div>

@@ -1,0 +1,35 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @Scripts.Render("~/bundles/angularjs")
+    @Scripts.Render("~/bundles/ag-grid")
+    @Scripts.Render("~/bundles/commonjs")
+    @Scripts.Render("~/bundles/app-angular.js")
+    @Scripts.Render("~/bundles/formjs")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Styles.Render("~/Content/css")
+</head>
+<body ondragstart="return false;" ondrop="return false;" ng-app="module" ng-controller="ctrl">
+    @Html.Partial("_Progress")
+    @Html.Partial("_ValidationAndErrors")
+    <div class="flex-container">
+        <div class="left flex-container-btn">
+            <button id="btn-task-add" class="btn btn-primary btn-md" ng-click="openAddTaskPage()">Add new task</button>
+            <button id="btn-task-list" class="btn btn-primary btn-md" autofocus ng-click="openTaskListPage()">Task list</button>
+            <button id="btn-user-set" class="btn btn-primary btn-md">User setting</button>
+        </div>
+        <div class="right" ng-switch="pageName">
+            <div ng-switch-when="AddTask">
+                @Html.Partial("AddTask")
+            </div>
+            <div class="flex-container-box" ng-switch-when="TaskList">
+                @Html.Partial("TaskList")
+            </div>
+            </div>
+    </div>
+</body>
+</html>

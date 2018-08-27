@@ -1,0 +1,23 @@
+﻿<div class="btn-task-list">
+    <div class="float-left">
+        <button id="btn-filt-all" class="btn btn-info btn-md" ng-click="clearFltr()">All</button>
+        <button id="btn-filt-act" class="btn btn-info btn-md" ng-click="activeFltr()">Active</button>
+        <button id="btn-filt-comp" class="btn btn-info btn-md" ng-click="completedFltr()">Completed</button>
+    </div>
+    <div class="float-rigth">
+        <button id="btn-filt-ref" class="btn btn-info btn-md" ng-click="listLoad()">Refresh</button>
+    </div>
+</div>
+<div ag-grid="gridOptions" class="ag-theme-balham grid-list"></div>
+<div class="detail-list">
+    <fieldset>
+        <legend>Task List</legend>
+        <div>
+            <label for="detailedName">Name:</label><div id="detailedName" ng-bind="rowData.Name"></div><br>
+            <label for="detailedDescription">Description:</label><div id="detailedDescription" ng-bind="rowData.TaskDescription"></div><br>
+            <label for="detailedStatus">Status:</label><div id="detailedStatus" ng-bind="rowData.TaskStatus"></div><br>
+            <label for="detailedPriority">Priority:</label><div id="detailedPriority" ng-bind="rowData.TaskPriority"></div><br>
+            <label for="detailedAdded">Added:</label><div id="detailedAdded" ng-bind="rowData.AddedFormat"></div>
+        </div>
+    </fieldset>
+</div>

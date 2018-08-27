@@ -1,0 +1,19 @@
+﻿<div id="task-add">
+    <div class="float-rigth">
+        <button id="btn-task-save" class="btn btn-success btn-md" ng-click="taskAdd()">Save</button>
+    </div>
+    <div id="task-fields-container">
+        <label for="detailedName">Name:</label><input type="text" id="addName" ng-model="dataFields.Name"><br>
+        <label for="detailedDescription">Description:</label><textarea id="addDescription" row="2" ng-model="dataFields.TaskDescription"></textarea><br>
+        <label for="addStatus">Status:</label>
+        <select id="addStatus" ng-model="dataFields.TaskStatus">
+            <option value="Active" selected>Active</option>
+            <option value="Completed">Completed</option>
+        </select><br>
+        <label for="addPriority">Priority:</label><input type="number" id="addPriority" ng-model="dataFields.TaskPriority"><br>
+        <label for="dayToComplete">Time to complete days:</label><input type="number" id="dayToComplete" ng-model="dataFields.dayToComplete">
+        <label id="label-hour-to-compl" for="hourToComplete">hours:</label><input type="number" id="hourToComplete" ng-model="dataFields.hourToComplete">
+        <label id="label-minute-to-compl" for="minuteToComplete">minutes:</label><input type="number" id="minuteToComplete" ng-model="dataFields.minuteToComplete">
+        <label id="label-sec-to-compl" for="secToComplete">seconds:</label><input type="number" id="secToComplete" ng-model="dataFields.secToComplete">
+    </div>
+</div>

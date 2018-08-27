@@ -1,0 +1,222 @@
+﻿
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.flex-container {
+  display: flex;
+  align-items: stretch;
+  height: 100%;
+}
+
+.flex-container > div {
+  margin: 0 10px;
+  padding: 20px;
+  border: 1px solid lightgrey;
+}
+
+.flex-container > .right {
+    flex: 1;
+}
+
+.flex-container-btn {
+  display: flex;
+  flex-flow: column;
+}
+
+.flex-container-btn > button {
+  margin: 5px;
+}
+
+.flex-container-box {
+  display: flex;
+  flex-flow: column;
+}
+
+.grid-list  {
+    margin-bottom: 20px;
+}
+
+fieldset {
+    padding: 15px 2px 15px 15px;
+    border: 1px solid lightgrey;
+}
+
+legend {
+    font: 400 14px "Arial Narrow", Arial, sans-serif;
+    border-bottom: none;
+    margin-bottom: 0;
+    padding: 0 5px 0 5px;
+    width: auto;
+    color: darkslategrey;
+}
+
+.right {
+    height: 100%;
+}
+
+.right > div {
+    height: 100%;
+}
+
+.btn-task-list {
+    height: 50px;
+}
+
+.grid-list {
+    height: calc(50% - 25px);
+}
+
+.detail-list {
+    overflow: hidden;
+    height: calc(50% - 25px);
+}
+
+.detail-list > fieldset {
+    height: 100%;
+}
+
+.detail-list > fieldset > div {
+    overflow: auto;
+    height: 100%;
+}
+
+.detail-list > fieldset > div > label {
+    width: 100px;
+    display: table-cell;
+}
+
+.detail-list > fieldset > div > div {
+    display: table-cell;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-rigth {
+    float: right;
+}
+
+.ag-ltr .ag-cell-focus {
+    border: 1px solid white !important;
+    outline: none;
+}
+
+.btn-task-list {
+    width: 100%;
+}
+
+.btn-task-grid {
+    width: 80px;
+}
+
+.btn-task-grid.btn-xs {
+    font-size: 10px !important;
+}
+
+#btn-task-save {
+    width: 80px;
+    margin: 0 5px 10px 0;
+}
+
+#task-fields-container {
+    clear: both;
+}
+
+#task-fields-container > label,
+#task-fields-container > input,
+#task-fields-container > textarea {
+    margin: 5px;
+}
+
+#task-fields-container > label {
+    width: 160px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+#addName, 
+#addDescription {
+    width: calc(100% - 180px);
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+#addStatus,
+#addPriority {
+    width: 100px;
+}
+
+#dayToComplete,
+#hourToComplete,
+#minuteToComplete,
+#secToComplete {
+    width: 50px;
+}
+
+#task-fields-container > #label-hour-to-compl {
+    width: 40px;
+}
+
+#task-fields-container > #label-minute-to-compl {
+    width: 60px;
+}
+
+#task-fields-container > #label-sec-to-compl {
+    width: 60px;
+}
+
+@keyframes smoothOpacity {
+  from { opacity: 0 }
+  to { opacity: 1; }
+}
+
+#div-vldtn {
+    font-family: "Arial Narrow", Arial, sans-serif;
+    overflow: auto;
+    margin-bottom: 10px;
+    animation: smoothOpacity 1s ease-in-out;
+    color: firebrick;
+    font-size: 14px;
+    font-weight: 600;
+    max-height: 200px;
+}
+
+#div-vldtn > fieldset {
+    color: firebrick;
+    padding: 10px;
+    margin: 0 10px;
+}
+
+#div-vldtn ul {
+    width: 100%;
+    padding-left: 20px;
+}
+
+#div-central-progress {
+    width: 54px;
+    height: 54px;
+    position: fixed;
+    left: 50%;
+    top: 0;
+    margin-left: -54px;
+    z-index: 5000;
+}
+
+.inProgress {
+    background-image: url(/Content/Gif/loading.gif);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 54px;
+}
+
+.outProgress {
+    display: none;
+}
