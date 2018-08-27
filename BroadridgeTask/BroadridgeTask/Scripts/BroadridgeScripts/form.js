@@ -18,7 +18,7 @@
     };
     var taskListPageName = 'TaskList';
     var addTaskPageName = 'AddTask';
-    var fltrEq = 'equals'
+    var fltrEq = 'equals';
     var ID = 'ID';
     var curFilter = '';
    
@@ -75,13 +75,13 @@
             countryFilterComponent.filterCondition = fltrEq;
             countryFilterComponent.filterText = completedStatus.toLowerCase();
             $scope.gridOptions.api.onFilterChanged();
-        }
+        };
 
         $scope.clearFltr = function () {
             curFilter = '';
             $scope.gridOptions.api.setFilterModel(null);
             $scope.gridOptions.api.onFilterChanged();
-        }
+        };
 
         $scope.btnCellClicked = function (trgtObj) {
             if (trgtObj.TaskStatus === completedStatus) {
@@ -95,18 +95,23 @@
         function cellRendFunc0(params) {
             return '<div ng-click="cellClicked(\'Name\', data.Name)" ng-bind="data.Name"></div>';
         }
+
         function cellRendFunc1(params) {
             return '<div ng-click="cellClicked(\'Name\', data.Name)" ng-bind="data.TaskPriority"></div>';
         }
+
         function cellRendFunc2(params) {
             return '<div ng-click="cellClicked(\'Name\', data.Name)" ng-bind="data.AddedFormat"></div>';
         }
+
         function cellRendFunc3(params) {
             return '<div ng-click="cellClicked(\'Name\', data.Name)" ng-bind="data.TimeToComplete"></div>';
         }
+
         function cellRendFunc4(params) {
             return '<div ng-click="cellClicked(\'Name\', data.Name)" ng-bind="data.TaskStatus"></div>';
         }
+
         function cellRendFunc5(params) {
             return '<button class="btn btn-danger btn-xs btn-task-grid" ng-click="btnCellClicked(data)" ng-bind="setBtnCaption(data.TaskStatus)"></button>';
         }
@@ -218,7 +223,7 @@
                 $scope.manageProgress(false);
 
                 if (type === broadridge_task.vr.sourceTypeData) {
-                    $scope.rowData = {};
+                    if (trgtRow.ID === $scope.rowData.ID) { $scope.rowData = {}; }
                     broadridge_task.fn.objArrDelByKeyVal($scope.dataTable, ID, trgtRow.ID);
                     $scope.gridOptions.api.setRowData($scope.dataTable);
                     setFilter();
@@ -285,7 +290,7 @@
                     }
                 }
             }
-        };
+        }
 
         function setFilter() {
             switch(curFilter) {
@@ -299,6 +304,6 @@
                     $scope.clearFltr();
                     break;
             }
-        };
+        }
     });
 })();
